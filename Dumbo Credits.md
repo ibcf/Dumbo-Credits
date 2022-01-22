@@ -1,8 +1,8 @@
-Dumbo (1941) Art/Animation Credits
+```Dumbo (1941) Art/Animation Credits
 
 (compiled by ibcf)
 
-===========================================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Notes & Caveats
 
@@ -20,7 +20,7 @@ Notes & Caveats
 
 - "NC" means "not credited" in the film
 
-===========================================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Supervising Director
 	Ben Sharpsteen (also sequence director of finale)
@@ -42,7 +42,7 @@ Sequence Directors
 
 Assistant Sequence Directors (None credited in film)
 	Lloyd Richardson (NC, with Sam Armstrong)
-	W. Hays (NC, with Sam Armstrong)
+	W. Hays (Willoughby "Wick" Hays?) (NC, with Sam Armstrong)
 	Jacques Roberts (NC, with Wilfred Jackson)
 	Larry Lansburgh (NC, with Norm Ferguson)
 	Earl Bench (NC, with Bill Roberts)
@@ -111,7 +111,7 @@ Character Animation
 	Warren Schloat (NC)
 	Jerry Hathcock (NC)
 	Steve Bosustow (NC)
-	Van Kaufman (NC) (assistant?)
+	Van Kaufman (NC)
 	Ed Dunn (NC)
 	Bob Youngquist (NC)
 	John Sewell (NC)
@@ -146,7 +146,7 @@ Mechanical Animation (Technically not distinguished from "Effects Animation" at 
 	Ed Parks (NC)
 	Paul Fitzpatrick (NC)
 
-===========================================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Notable Artists
 
@@ -178,4 +178,4 @@ Howard Swift - (Animated most of the "Pink Elephants" sequence)
 
 Maurice Noble - (Later became Chuck Jones's layout artist at Warner Bros, designing the famously stylized backgrounds in films like "Duck Dodgers of the 24½ century" and "What's Opera, Doc?")
 
-John Hubley - (Later director at UPA and renowned independent animated filmmaker, responsible for such masterpieces as "Moonbird," "Rooty Toot Toot," and "The Tender Game")
+John Hubley - (Later director at UPA and renowned independent animated filmmaker, responsible for such masterpieces as "Moonbird," "Rooty Toot Toot," and "The Tender Game")```
