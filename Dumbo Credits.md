@@ -25,14 +25,14 @@ Notes & Caveats
 ------------------------------------------------------------------------------------------
 
 Supervising Director
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ben Sharpsteen (also sequence director of finale)
+	Ben Sharpsteen (also sequence director of finale)
 
 Screen Story
 	Joe Grant
 	Dick Huemer
 
 Story Direction
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Otto Englander
+	Otto Englander
 
 Sequence Directors
 	Norm Ferguson (Circus Parade, Pyramid Act, Hiccups, Pink Elephants)
