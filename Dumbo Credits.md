@@ -1,3 +1,5 @@
+~~~
+
 Dumbo (1941) Art/Animation Credits
 
 (compiled by ibcf)
@@ -26,8 +28,8 @@ Supervising Director
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ben Sharpsteen (also sequence director of finale)
 
 Screen Story
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joe Grant
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dick Huemer
+	Joe Grant
+	Dick Huemer
 
 Story Direction
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Otto Englander
