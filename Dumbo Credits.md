@@ -1,26 +1,26 @@
-Dumbo (1941) Art/Animation Credits
+```Dumbo (1941) Art/Animation Credits
 
-(compiled by ibcf)
+(compiled by ibcf)```
 
-------------------------------------------------------------------------------------------
+```------------------------------------------------------------------------------------------```
 
-Notes & Caveats
+```Notes & Caveats```
 
-- This is an attempt to provide a more complete understanding of the various artists' roles on Dumbo, mostly based on information found in the animator drafts posted by Hans Perk (http://afilmla.blogspot.com/search/label/Dumbo)
+```- This is an attempt to provide a more complete understanding of the various artists' roles on Dumbo, mostly based on information found in the animator drafts posted by Hans Perk (http://afilmla.blogspot.com/search/label/Dumbo)```
 
-- The information listed here is by no means guaranteed to be accurate; the draft itself was a WIP and potentially subject to change
+```- The information listed here is by no means guaranteed to be accurate; the draft itself was a WIP and potentially subject to change```
 
-- The animation categories were expanded and rearranged from the generic "Animation" credit in the film in order to give a better idea of who exactly animated what; some educated guesswork and arbitrary distinctions were necessarily involved)
+```- The animation categories were expanded and rearranged from the generic "Animation" credit in the film in order to give a better idea of who exactly animated what; some educated guesswork and arbitrary distinctions were necessarily involved)```
 
 ```- A more specific explanation of my sorting process: "Character Animation" denotes animation that involves characters, "Effects Animation" mostly designates animation that involves natural elements like water, fire, smoke, rain, etc, and "Mechanical Animation" generally means artificial props like trains, circus tents, etc. There is some overlap and borderline cases--for instance Cy Young's introductory storks are technically characters, but his role at Disney was traditionally always effects and they are treated more as effects than "personalities." (The delineation is even more fuzzy for "junior animators" who may start out working on minor effects or actions but may become full-fledged character animators down the line.) In some cases I am unfamiliar with the animators (e.g. Karl Van Leuven? Vernon Witt?) or their exact roles at Disney at the time (Russ Dyson?); when the draft lists multiple names on the same cut it does not distinguish their roles, therefore the placements of their names is my best guess.```
 
-- Aside from the animators, the rest of the credit categories are exactly as they appear in the film (with clarifications as needed), with the addition of Assistant Sequence Directors which went entirely uncredited.
+```- Aside from the animators, the rest of the credit categories are exactly as they appear in the film (with clarifications as needed), with the addition of Assistant Sequence Directors which went entirely uncredited.```
 
-- The animation directors both did key animation themselves and supervised particular characters, for instance Bill Tytla animated Dumbo and Mrs. Jumbo while also supervising Bill Shull's additional scenes with them. It is less clear which animation director took precedence when they shared characters, given that both Woolie Reitherman and Fred Moore specialized in Timothy Mouse; though it seems likely they worked independently and corrected junior animators wherever they could given Dumbo's rushed production.
+```- The animation directors both did key animation themselves and supervised particular characters, for instance Bill Tytla animated Dumbo and Mrs. Jumbo while also supervising Bill Shull's additional scenes with them. It is less clear which animation director took precedence when they shared characters, given that both Woolie Reitherman and Fred Moore specialized in Timothy Mouse; though it seems likely they worked independently and corrected junior animators wherever they could given Dumbo's rushed production.```
 
-- "NC" means "not credited" in the film
-
-------------------------------------------------------------------------------------------
+```- "NC" means "not credited" in the film```
+```
+```------------------------------------------------------------------------------------------
 
 Supervising Director
 	Ben Sharpsteen (also sequence director of finale)
@@ -145,9 +145,9 @@ Mechanical Animation (Technically not distinguished from "Effects Animation" at 
 	Brad Case (NC)
 	Ed Parks (NC)
 	Paul Fitzpatrick (NC)
-
-------------------------------------------------------------------------------------------
-
+```
+```------------------------------------------------------------------------------------------```
+```
 Notable Artists
 
 Bill Tytla - (Said to be "the greatest animator ever," lauded for his draftsmanship and "method acting" style of character animation, started at the Barré Studio and Terrytoons in New York, had extensive formal art training and studied painting and sculpture in Paris)
@@ -178,4 +178,4 @@ Howard Swift - (Animated most of the "Pink Elephants" sequence)
 
 Maurice Noble - (Later became Chuck Jones's layout artist at Warner Bros, designing the famously stylized backgrounds in films like "Duck Dodgers of the 24½ century" and "What's Opera, Doc?")
 
-John Hubley - (Later director at UPA and renowned independent animated filmmaker, responsible for such masterpieces as "Moonbird," "Rooty Toot Toot," and "The Tender Game")
+John Hubley - (Later director at UPA and renowned independent animated filmmaker, responsible for such masterpieces as "Moonbird," "Rooty Toot Toot," and "The Tender Game")```
