@@ -1,5 +1,3 @@
-~~~
-
 Dumbo (1941) Art/Animation Credits
 
 (compiled by ibcf)
