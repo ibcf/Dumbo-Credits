@@ -1,6 +1,7 @@
 # Dumbo (1941) Art/Animation Credits
 
 (compiled by ibcf)
+
 (special thanks to NTOP for showing me how to use markdown)
 
 ## Notes & Caveats
