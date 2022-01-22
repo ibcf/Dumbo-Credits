@@ -1,4 +1,3 @@
-```
 Dumbo (1941) Art/Animation Credits
 
 (compiled by ibcf)
@@ -13,7 +12,7 @@ Notes & Caveats
 
 - The animation categories were expanded and rearranged from the generic "Animation" credit in the film in order to give a better idea of who exactly animated what; some educated guesswork and arbitrary distinctions were necessarily involved)
 
-- A more specific explanation of my sorting process: "Character Animation" denotes animation that involves characters, "Effects Animation" mostly designates animation that involves natural elements like water, fire, smoke, rain, etc, and "Mechanical Animation" generally means artificial props like trains, circus tents, etc. There is some overlap and borderline cases--for instance Cy Young's introductory storks are technically characters, but his role at Disney was traditionally always effects and they are treated more as effects than "personalities." (The delineation is even more fuzzy for "junior animators" who may start out working on minor effects or actions but may become full-fledged character animators down the line.) In some cases I am unfamiliar with the animators (e.g. Karl Van Leuven? Vernon Witt?) or their exact roles at Disney at the time (Russ Dyson?); when the draft lists multiple names on the same cut it does not distinguish their roles, therefore the placements of their names is my best guess.
+```- A more specific explanation of my sorting process: "Character Animation" denotes animation that involves characters, "Effects Animation" mostly designates animation that involves natural elements like water, fire, smoke, rain, etc, and "Mechanical Animation" generally means artificial props like trains, circus tents, etc. There is some overlap and borderline cases--for instance Cy Young's introductory storks are technically characters, but his role at Disney was traditionally always effects and they are treated more as effects than "personalities." (The delineation is even more fuzzy for "junior animators" who may start out working on minor effects or actions but may become full-fledged character animators down the line.) In some cases I am unfamiliar with the animators (e.g. Karl Van Leuven? Vernon Witt?) or their exact roles at Disney at the time (Russ Dyson?); when the draft lists multiple names on the same cut it does not distinguish their roles, therefore the placements of their names is my best guess.```
 
 - Aside from the animators, the rest of the credit categories are exactly as they appear in the film (with clarifications as needed), with the addition of Assistant Sequence Directors which went entirely uncredited.
 
