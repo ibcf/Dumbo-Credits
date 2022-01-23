@@ -160,7 +160,7 @@
 - A "natural animation talent," probably the single artist most responsible for the Disney animation style, established the Disney concepts of "appeal" and "squash and stretch," responsible for the current design of Mickey Mouse
 
 ##### Norm Ferguson
-- Known for his highly influential personality animation of Mickey's dog Pluto, also known for his extremely rough style of drawing that required a veritable army of assistants to clean up, revolutionized Disney's character animation with his extensive flypaper sequence in 1934's "Playful Pluto"
+- Known for his highly influential personality animation of Mickey's dog Pluto, also known for his extremely rough style of drawing that required a veritable army of assistants to clean up, made significant breakthroughs in Disney's 30s animation with his (at the time) unique overlapping motion and ability to capture a characters' thought process, epitomized by his extensive flypaper sequence in 1934's "Playful Pluto"
 
 ##### Ward Kimball
 - One of Disney's "nine old men," specialized in wild comedy characters, known for his brilliant and idiosyncratic posing, motion, and timing, lead animator on the crows in Dumbo, Jiminy Cricket, the Cheshire Cat, and the anarchic title song sequence in The Three Caballeros
